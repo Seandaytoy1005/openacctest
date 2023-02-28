@@ -9,5 +9,5 @@ int main()
 #else
     printf("OpenACC is not support.\n");
 #endif
-    return;
+    return 0;
 }
